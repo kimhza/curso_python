@@ -5,7 +5,7 @@ Este repositorio contiene ejercicios de programación en Python propuestos en la
 A continuación presento la solución de los ejercicios organizados por directorios:
 
 - [Tipos de Datos Simples](./tipos-datos-simples/)
-- Cadenas
+- [Cadenas](./cadenas/)
 - Condicionales
 - Bucles
 - Listas y Tuplas
