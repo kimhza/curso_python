@@ -7,7 +7,7 @@ A continuación presento la solución de los ejercicios organizados por director
 - [Tipos de Datos Simples](./tipos-datos-simples/)
 - [Cadenas](./cadenas/)
 - [Condicionales](./condicionales/)
-- Bucles
+- [Bucles](./bucles/)
 - Listas y Tuplas
 - Diccionarios
 - Funciones
